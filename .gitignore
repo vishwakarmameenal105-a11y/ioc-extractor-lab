@@ -1,1 +1,6 @@
 
+__pycache__/
+*.pyc
+ioc_report.json
+reports/
+.DS_Store
