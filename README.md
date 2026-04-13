@@ -6,7 +6,7 @@ Real-world IoC (Indicators of Compromise) extraction using actual attack pattern
 
 ### 1. SSH Brute Force Attack
 - Multiple failed login attempts from malicious IPs
-- Targeted usernames: root, admin, ubuntu
+- Targeted usernames: root, admin, ubuntu, dell
 - Realistic attacker behavior
 
 ### 2. Web Application Attack
