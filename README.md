@@ -13,6 +13,7 @@ Real-world IoC (Indicators of Compromise) extraction using actual attack pattern
 - SQL injection attempts (`' OR '1'='1`)
 - XSS attempts (`<script>alert(1)</script>`)
 - Directory traversal (`../../etc/passwd`)
+- File injection
 
 ## Run the Lab
 
